@@ -1,0 +1,29 @@
+body{
+display: flex;
+flex-direction: column;
+height: 75px;
+margin: 0;
+padding: 0;
+}
+.div-1{
+background-color: red;
+min-height: 10%;
+width: 100%;
+color: white;
+}
+.div-2{
+background-color: yellow;
+min-height: 30%;
+width: 100%;
+}
+.div-3{
+background-color: orange;
+min-height: 30%;
+width: 100%;
+}   
+.div-4{
+background-color: green;
+min-height: 30%;
+width: 100%;
+}
+    
